@@ -1,0 +1,28 @@
+_repo: Longevity_24928
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Windser, Therese
+    gutenberg_agent_id: '26819'
+    url: http://www.gutenberg.org/2009/agents/26819
+description: ''
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2008-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: Longevity
+url: http://www.gutenberg.org/ebooks/24928
